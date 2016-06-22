@@ -1,13 +1,6 @@
 style.css
 
 body {
-	background-color: blue;
-
-h1, p {
+	background-color: lightblue;
 	color: black;
 }
-
-h2, p {
-	color: yellow;
-}
-
