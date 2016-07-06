@@ -5,8 +5,23 @@ body {
   color: #fff;
   font-family: Helvetica;
 }
-hr {
-  width: 200px;
+h1 {
+  font-family: Helvetica;
+  font-weight: 500;
+  font-size: 72px;
+  color: white;
+  text-align: center;
+}
+
+ h2 {
+  font-family: Helvetica;
+  font-weight: 200;
+  font-size: 14px;
+  color: white;
+  text-align: center;
+
+ }
+
 }
 p {
   font-size: 40px;
