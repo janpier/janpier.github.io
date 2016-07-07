@@ -10,7 +10,7 @@ h1 {
   font-weight: 500;
   font-size: 72px;
   color: #2e2d2d;
-  text-align: left;
+  text-align: center;
 }
 
  h2 {
@@ -18,7 +18,7 @@ h1 {
   font-weight: bold;
   font-size: 20px;
   color: #2e2d2d;
-  text-align: left;
+  text-align: center;
 
  }
 
@@ -28,5 +28,5 @@ p {
   font-family: Helvetica;
   font-weight: lighter;
   color: #2e2d2d;
-  text-align: left;
+  text-align: center;
 }
