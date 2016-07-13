@@ -1,6 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
-
-
 body {
   text-align: center;
   background: url("http://i.imgur.com/1x3fJXP.png");
@@ -25,10 +22,11 @@ h1 {
 
  }
 
+}
 p {
   font-size: 14px;
-  font-family: 'Open Sans Condensed';
-  font-weight: bold;
+  font-family: Helvetica;
+  font-weight: lighter;
   color: #2e2d2d;
   text-align: center;
 }
