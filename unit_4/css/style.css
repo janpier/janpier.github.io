@@ -1,12 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+
+
+
 body {
   text-align: center;
   background: url("http://i.imgur.com/1x3fJXP.png");
   background-size: cover;
   background-color: #f6f4ee;
-  font-family: Helvetica;
+  font-family: 'Mystery Quest', cursive;
 }
 h1 {
-  font-family: Helvetica;
+  font-family: 'Mystery Quest', cursive;
   font-weight: 500;
   font-size: 72px;
   color: #2e2d2d;
@@ -14,7 +18,7 @@ h1 {
 }
 
  h2 {
-  font-family: Helvetica;
+  font-family: 'Mystery Quest', cursive;
   font-weight: bold;
   font-size: 20px;
   color: #2e2d2d;
@@ -25,7 +29,7 @@ h1 {
 }
 p {
   font-size: 14px;
-  font-family: Helvetica;
+  font-family: 'Mystery Quest', cursive;
   font-weight: lighter;
   color: #2e2d2d;
   text-align: center;
