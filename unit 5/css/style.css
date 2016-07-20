@@ -1,4 +1,4 @@
-header {
+header{
   background-color: #FFED74
   border: 1px black solid;
   padding: 20px;
@@ -15,7 +15,6 @@ aside {
   border: 1px black solid;
   padding: 20px;
 }
-
 article {
   background-color: #E89C6C
   border: 1px black solid;
