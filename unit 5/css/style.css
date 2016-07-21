@@ -2,40 +2,68 @@ header{
   background-color: #FFED74;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
+  font-size: 20px;
+  line-height: 1.5em;
+
+
 }
 
 nav {
   background-color: #E8C66A;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
+  line-height: 1.5em;
+
+
+
 }
 
 aside {
   background-color: #FFC675;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
-  
+  line-height: 1.5em;
+
+
+ 
 }
+
 article {
   background-color: #E89C6C;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
+  line-height: 1.5em;
+
+
 }
 
 footer {
   background-color: #FF957E;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
+  line-height: 1.5em;
+
+
 }
 
-div/section {
+div {
   background-color: #FFE2B8;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
+  line-height: 1.5em;
+
+ 
 }
 
-h1 {
-  text-transform: uppercase;
+section {
+  background-color: #FFE2B8;
+  border: 1px black solid;
+  padding: 2em 3em 2em 3em;
+  line-height: 1.5em;
+
+  
+}
+
 
 
 
