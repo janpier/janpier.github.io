@@ -1,34 +1,41 @@
 header{
   background-color: #FFED74;
   border: 1px black solid;
-  padding: 20px;
+  padding: 2em 3em 2em 3em;
 }
 
 nav {
   background-color: #E8C66A;
   border: 1px black solid;
-  padding: 20px;
+  padding: 2em 3em 2em 3em;
 }
 
 aside {
   background-color: #FFC675;
   border: 1px black solid;
-  padding: 20px;
+  padding: 2em 3em 2em 3em;
+  
 }
 article {
   background-color: #E89C6C;
   border: 1px black solid;
-  padding: 20px;
+  padding: 2em 3em 2em 3em;
 }
 
 footer {
   background-color: #FF957E;
   border: 1px black solid;
-  padding: 20px;
+  padding: 2em 3em 2em 3em;
 }
 
 div/section {
   background-color: #FFE2B8;
   border: 1px black solid;
-  padding: 20px;
+  padding: 2em 3em 2em 3em;
 }
+
+h1 {
+  text-transform: uppercase;
+
+
+
