@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+body {
+  text-align: center;
+  /*background-image: url("http://i.imgur.com/eNO3jFC.png?1");*/
+  background-color: #f6f4ee;
+  font-family: 'Roboto Condensed';
+/*    background: url("http://i.imgur.com/eNO3jFC.png?1") no-repeat 50% 50% fixed; */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 72px;
+  color: #2e2d2d;
+  text-align: center;
+}
+
+ h2 {
+  font-family: 'Oswald';
+  text-align: center;
+  font-size: 18px;
+  color: #2e2d2d;
+  
+
+ }
+
+p {
+  font-size: 14px;
+  font-family: 'Roboto Condensed';
+  font-weight: lighter;
+  color: #2e2d2d;
+  text-align: center;
+  line-height: 1em;
+  
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+}
+
+#content{
+  padding:100px 50px;
+  text-align:center;
+  width:80%;
+  margin:0px auto;
+}
+
+#content h2{
+  margin:0px 0px 30px 0px;
+}

@@ -1,7 +1,14 @@
+<<<<<<< HEAD
+=======
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+
+
+>>>>>>> origin/master
 body {
   text-align: center;
   background: url("http://i.imgur.com/1x3fJXP.png");
   background-size: cover;
+<<<<<<< HEAD
   color: #fff;
   font-family: Helvetica;
 }
@@ -10,4 +17,32 @@ hr {
 }
 p {
   font-size: 40px;
+=======
+  background-color: #f6f4ee;
+  font-family: 'Open Sans Condensed';
+}
+h1 {
+  font-family: Helvetica;
+  font-weight: 500;
+  font-size: 72px;
+  color: #2e2d2d;
+  text-align: center;
+}
+
+ h2 {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 20px;
+  color: #2e2d2d;
+  text-align: center;
+
+ }
+
+p {
+  font-size: 14px;
+  font-family: 'Open Sans Condensed';
+  font-weight: bold;
+  color: #2e2d2d;
+  text-align: center;
+>>>>>>> origin/master
 }
