@@ -2,7 +2,7 @@
 
 
 header{
-  background-color: #FFED74;
+  background-color: #F9FDFF;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
   font-size: 16px;
@@ -12,7 +12,7 @@ header{
 }
 
 nav {
-  background-color: #E8C66A;
+  background-color: #47647F;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
   line-height: 1.5em;
@@ -23,7 +23,7 @@ nav {
 }
 
 aside {
-  background-color: #FFC675;
+  background-color: #243240;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
   line-height: 1.5em;
@@ -35,7 +35,7 @@ aside {
 }
 
 article {
-  background-color: #E89C6C;
+  background-color: #243240;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
   line-height: 1.5em;
@@ -47,7 +47,7 @@ article {
 }
 
 footer {
-  background-color: #FF957E;
+  background-color: #6B96BF;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
   line-height: 1.5em;
@@ -58,7 +58,7 @@ footer {
 }
 
 div {
-  background-color: #FFE2B8;
+  background-color: #80B4E5;
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
   line-height: 1.5em;
@@ -77,6 +77,36 @@ section {
   
 }
 
+#two_column {
+    background-color: #80B4E5;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #F9FDFF;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: #F9FDFF;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
 
 
 
