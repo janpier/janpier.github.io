@@ -1,10 +1,23 @@
+<<<<<<< HEAD
+=======
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
 
 
+>>>>>>> origin/master
 body {
   text-align: center;
   background: url("http://i.imgur.com/1x3fJXP.png");
   background-size: cover;
+<<<<<<< HEAD
+  color: #fff;
+  font-family: Helvetica;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 40px;
+=======
   background-color: #f6f4ee;
   font-family: 'Open Sans Condensed';
 }
@@ -31,4 +44,5 @@ p {
   font-weight: bold;
   color: #2e2d2d;
   text-align: center;
+>>>>>>> origin/master
 }

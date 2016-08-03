@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-body {
-  background-color: #FFED74
-=======
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
 
 header{
   background-color: #FFED74;
->>>>>>> origin/master
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
   font-size: 16px;
@@ -28,11 +23,7 @@ nav {
 }
 
 aside {
-<<<<<<< HEAD
-  background-color: #FFC675 
-=======
   background-color: #FFC675;
->>>>>>> origin/master
   border: 1px black solid;
   padding: 2em 3em 2em 3em;
   line-height: 1.5em;
