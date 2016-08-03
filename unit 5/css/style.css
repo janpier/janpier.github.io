@@ -1,4 +1,4 @@
-header{
+body {
   background-color: #FFED74
   border: 1px black solid;
   padding: 20px;
@@ -11,7 +11,7 @@ nav {
 }
 
 aside {
-  background-color: #FFC675
+  background-color: #FFC675 
   border: 1px black solid;
   padding: 20px;
 }
